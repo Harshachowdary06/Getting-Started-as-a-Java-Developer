@@ -4,6 +4,18 @@ This is a repositories that have all the information that is needed to start you
 
 Each concept is categorized and explained with adequate examples and some challenges to work on.
 
-## Java Basics(https://github.com/Harshachowdary06/Java-Basics.git)
+## [Java Basics](https://github.com/Harshachowdary06/Java-Basics.git)
 
-#Git Repo link: https://github.com/Harshachowdary06/Java-Basics.git
+### What it covers:
+
+* OOPS Concepts.
+* Variables.
+*  Packages, Classes and Methods.
+*  Objects.
+*  Decisional Structures.
+*  Repetition Structures.
+*  Files.
+
+
+
+
