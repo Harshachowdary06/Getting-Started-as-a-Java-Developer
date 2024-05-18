@@ -1,2 +1,9 @@
 # Getting-Started-as-a-Java-Developer
-will be updtaed soon
+
+This is a repositories that have all the information that is needed to start your career as a Java Developer.
+
+Each concept is categorized and explained with adequate examples and some challenges to work on.
+
+## Java Basics
+
+#Git Repo link: https://github.com/Harshachowdary06/Java-Basics.git
